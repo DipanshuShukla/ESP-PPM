@@ -34,9 +34,9 @@ These instructions will get you a copy of the project up and running on your ESP
 
 * A smart phone or a PC with a joystick and Firefox
 
-### Setting uphttps://github.com/DipanshuShukla/ESP-PPM/blob/master/power.png?raw=true the Electronics and uploading the Code
+### Setting up the Electronics and uploading the Code
 
-![Wiring Diagram](https://github.com/DipanshuShukla/ESP-PPM/blob/master/power.png?raw=true)
+![Wiring Diagram](power.png)
 
 1. First you need to set the power connections to the ESP8266 module. You can see the wiring in the picture. Make the following connections:
 
