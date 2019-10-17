@@ -36,6 +36,8 @@ These instructions will get you a copy of the project up and running on your ESP
 
 ### Setting up the Electronics and uploading the Code
 
+![Wiring Diagram](\power.png)
+
 <img src="\power.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;"/>
 
 1. First you need to set the power connections to the ESP8266 module. You can see the wiring in the picture. Make the following connections:
