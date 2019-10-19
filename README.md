@@ -2,7 +2,7 @@
 
 ## Overview
 
-IOT based project for ESP8266 module to be used as an ppm reciever for a drone flight controller. I personally used the ESP-12E.
+IOT based project for ESP8266 module to be used as an ppm reciever for a drone flight controller.
 
 The ESP*12E ESP8266 WiFi Module is a self contained SOC with integrated TCP/IP protocol stack that can give any microcontroller access to your WiFi network. The ESP8266 is capable of either hosting an application or offloading all Wi*Fi networking functions from another application processor.
 
