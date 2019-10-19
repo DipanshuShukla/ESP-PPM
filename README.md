@@ -94,7 +94,7 @@ Thats it. You are done. Now you can fly with your mobile phone without any addit
 
 ## Authors
 
-* **Dipanshu Shukla** - *Initial work* - [Github page](https://https://github.com/DipanshuShukla)
+* **Dipanshu Shukla** - *Initial work* - [Github page](https://github.com/DipanshuShukla)
 
 ## License
 
